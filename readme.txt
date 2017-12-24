@@ -1,2 +1,2 @@
-i'm learning git
+i'm learning distributed git
 it's a very good tool
